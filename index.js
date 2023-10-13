@@ -6,7 +6,7 @@ console.log(name)
 name = "Thor"
 console.log("Bem Vindo " + name)
 
-let nivelHeroi = "6"
+let nivelHeroi = "10"
 
 let XP1 = ((nivelHeroi >= 0) && (nivelHeroi <= 1000))
 let XP2 = ((nivelHeroi >= 1001) && (nivelHeroi <= 2000))
